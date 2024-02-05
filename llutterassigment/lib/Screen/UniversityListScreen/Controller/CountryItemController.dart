@@ -13,7 +13,7 @@ class UniversityScreenController extends ChangeNotifier {
 
   UniversityScreenController() {
     initialize();
-    
+
   }
 
   Future<void> initialize() async {
